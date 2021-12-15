@@ -1,0 +1,15 @@
+body{
+	background-image: url(fortnite.jpg);
+	background-repeat: no-repeat;
+	color: white;
+}
+a{
+	color: rgb(247, 23, 255);
+	font-size: x-large;
+}
+p{
+	color: gold;
+}
+blockquote{
+	font-size: x-large;
+}
